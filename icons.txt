@@ -1,0 +1,5 @@
+Icons
+- 1 main 19px x 19px icon.png
+- 128x128 px icon_128.png
+- images/
+- logo 150x150px logo.png
